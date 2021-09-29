@@ -1,0 +1,19 @@
+.header-menu {
+  background: black;
+  padding: 15px 0px;
+  margin-top: 20px;
+  text-align: left;
+  padding-left: 40px;
+}
+nav a {
+  text-decoration: none;
+  color: white;
+  margin-right: 20px;
+  font-weight: 700;
+}
+nav a:hover {
+  background: white;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+}
