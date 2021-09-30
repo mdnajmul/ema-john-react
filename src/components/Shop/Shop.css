@@ -1,0 +1,13 @@
+.search-field {
+  background: rgba(46, 45, 45, 0.966);
+}
+.input-group {
+  width: 75%;
+  margin: 0 auto;
+  padding: 10px;
+}
+.font-icon {
+  color: white;
+  margin-left: 10px;
+  margin-right: 8px;
+}
